@@ -1,6 +1,8 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a real time Currency Convertor build with React and External API for fetching live exchange rates.
+
+API : https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@${date}/v1/currencies/${currency}.json
 
 Currently, two official plugins are available:
 
